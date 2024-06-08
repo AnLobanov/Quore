@@ -231,7 +231,7 @@ export const Recommendations = ({ navigation }) => {
           <Info>
             <Img source={require('../assets/icons/avatar.png')} />
             <Name>Хороший мальчик , 5</Name>
-            <Description>Просто кот</Description>
+            <Description>Просто кот, ага</Description>
             <HighNavIcon>
               <SvgXml xml={percents} width="15px" height="20px" />
               <Txt>51%</Txt>
