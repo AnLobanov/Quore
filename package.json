@@ -41,11 +41,13 @@
     "styled-components": "^6.1.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "np": "^10.0.5",
+    "react-native-version": "^4.0.0"
   },
   "private": true,
   "repository": {
-   "type": "git",
-   "url": "git+https://github.com/AnLobanov/Quore.git"
- }
+    "type": "git",
+    "url": "git+https://github.com/AnLobanov/Quore.git"
+  }
 }
