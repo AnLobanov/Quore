@@ -216,7 +216,7 @@ export const Recommendations = ({ navigation }) => {
             <SideButton onPressed={() => navigation.openDrawer()} />
           </View>
           <View style={{ flex: 4 }}>
-            <Title style={{ textAlign: 'center' }}>Рекомендации</Title>
+            <Title style={{ textAlign: 'center' }}>CONFIDENTIAL</Title>
           </View>
           <View style={{ flex: 2 }}>
             <Button onPress={toggleSheet}>
